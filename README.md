@@ -8,7 +8,7 @@
 
 ![skills](https://skillicons.dev/icons?i=github,discord,linux,regex,md,js,jquery,ts,vue,react,css,go,py,swift,mysql,postgres,redis,selenium,flutter,electron,vim,vscode)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wxmvv&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wxmvv&theme=dracula&show_icons=true&layout=compact&bg_color=00000000)
 
 # Contact
 
