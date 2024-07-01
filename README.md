@@ -1,14 +1,11 @@
 # About
-你好～👋！我是wxm，一名普通的程序员
-- 什么都会一点点
-- python是世界上最好的语言
-- 音乐爱好者，吉他、尤克里里专精
-- 轻微社恐
+你好～👋！
+我是wxm
+
 欢迎来找我玩～
 
-![skills](https://skillicons.dev/icons?i=github,discord,linux,regex,md,js,jquery,ts,vue,react,css,go,py,swift,mysql,postgres,redis,selenium,flutter,electron,vim,vscode)
+![skills](https://skillicons.dev/icons?i=js,ts,html,css,jquery,vue,go,react,nextjs,py,swift,mysql,redis,flutter,electron,vscode,github,linux)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wxmvv&theme=tokyonight&show_icons=true&layout=compact&bg_color=00000000)
 
 # Contact
 
